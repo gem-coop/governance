@@ -1,0 +1,11 @@
+---
+extends: existence
+message: 'No "TM", ™, SM, ©, ®, or other explicit indicators of rights ownership or trademarks'
+level: error
+nonword: true
+tokens:
+  - \bTM\b
+  - ™
+  - \bSM\b
+  - ©
+  - ®
