@@ -1,0 +1,3 @@
+# 👩‍⚖️ Gem.coop Governance
+
+TODO
