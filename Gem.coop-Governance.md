@@ -31,7 +31,7 @@
 
 1. The quorum to vote on resolutions and elections at a general meeting is 3 voting members or 10% of the voting members, whichever is greater.
    A general meeting with no business except voting should be asynchronous.
-   Otherwise, it must be a synchronous online video conference.
+   Otherwise, it must be a synchronous online video conference or text chat.
    The voting will occur using an online voting system chosen by the PLC.
    The voting period closes after one week or after the outcome of the vote would not be changed by any subsequent votes.
    If a synchronous meeting is happening, the meeting must occur before the votes can be tallied.
