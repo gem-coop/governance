@@ -86,7 +86,7 @@ When they cease to be a TSC member, revoke or downgrade their access to all of t
 
 ## Owners
 
-The Project Leader, one other PLC member (ideally a maintainer) and one other TSC member should be made owners on GitHub and Slack:
+The Project Leader, one other PLC member (ideally a maintainer), and one other TSC member should be made owners on GitHub and Slack:
 
 - Make them owners on the [`gem-coop` GitHub organisation](https://github.com/orgs/gem-coop/people)
 - Make them owners on the [Gem.coop private Slack](https://gem-coop.slack.com/admin)
