@@ -54,7 +54,7 @@ If they accept, follow a few steps to get them set up:
 - Invite them to the [**@gem-coop/maintainers** team](https://github.com/orgs/gem-coop/teams/maintainers) (or any relevant [subteams](https://github.com/orgs/gem-coop/teams/maintainers/teams)) to give them write access to relevant repositories (but don't make them owners). They will need to enable [GitHub's Two Factor Authentication](https://help.github.com/articles/about-two-factor-authentication/).
 - Invite them as a full member to the [Gem.coop private Slack](https://gem-coop.slack.com/admin/invites) (and ensure they've read the [communication guidelines](Maintainer-Guidelines.md#communication)) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Ask them to disable SMS as a 2FA device or fallback on their GitHub account in favour of using one of the other authentication methods.
-- Ask them to (regularly) review remove any unneeded [GitHub personal access tokens](https://github.com/settings/tokens).
+- Ask them to (regularly) review and remove any unneeded [GitHub personal access tokens](https://github.com/settings/tokens).
 - Start the process to [add them as Gem.coop members](#members), for formal voting rights and the ability to hold office for Gem.coop.
 
 If there are problems, ask them to step down as a maintainer.
