@@ -75,7 +75,7 @@
 
 ## 5. Meetings of the Project Leadership Committee
 
-1. All members of the PLC must meet by synchronous video call or in person at least once per year. This meeting should be in person at the AGM with at least two months' notice.
+1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, on a synchronous video call. For accessibility a synchronous text chat option should be available. The AGM date must be given with at least two months' advance notice.
 
 1. The quorum to vote on resolutions of the PLC is a majority of its members. In an electronic vote, a voting period of one week replaces the quorum requirement. Any approved resolution will take effect immediately.
 
