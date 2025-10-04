@@ -37,7 +37,7 @@ Relatedly:
 
 ### Add comments
 
-It may be enough to refer to an issue ticket, but make sure changes and context are clear enough so that anyone reading them for the first time can make sense of them. You don't want code you wrote to be removed because the someone new doesn’t understand why it’s there. Regressions suck.
+It may be enough to refer to an issue ticket, but make sure changes and context are clear enough so that anyone reading them for the first time can make sense of them. You don't want code you wrote to be removed because someone new doesn’t understand why it’s there. Regressions suck.
 
 This also applies to issue and PR bodies. Be as explicit as possible. If a pull request is part of a larger initiative: link to a relevant tracking issue. If there isn't a tracking issue yet: create one to improve communication and get consensus.
 
