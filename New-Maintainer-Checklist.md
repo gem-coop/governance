@@ -13,7 +13,7 @@
 
 There's someone who has been making consistently high-quality contributions to Gem.coop? Let's invite them to be a maintainer!
 
-First, send them the invitation email:
+First, send them an invitation or have a discussion on a channel of your choice. Here's a sample invitation email:
 
 ```markdown
 The Gem.coop team and I really appreciate your help on issues, pull requests and
@@ -39,7 +39,6 @@ A few requests:
 - Please make pull requests for any changes in the Gem.coop repositories (instead
   of committing directly) and don't merge them unless you get at least one approval
   and passing tests.
-- Please review the Maintainer Guidelines at https://github.com/gem-coop/.github/blob/HEAD/Maintainer-Guidelines.md
 - Create branches in the main repository rather than on your fork to ease collaboration
   with other maintainers and allow security assumptions to be made based on GitHub access.
 - If still in doubt please ask for help and we'll help you out.
@@ -52,7 +51,8 @@ Thanks for all your work so far!
 If they accept, follow a few steps to get them set up:
 
 - Invite them to the [**@gem-coop/maintainers** team](https://github.com/orgs/gem-coop/teams/maintainers) (or any relevant [subteams](https://github.com/orgs/gem-coop/teams/maintainers/teams)) to give them write access to relevant repositories (but don't make them owners). They will need to enable [GitHub's Two Factor Authentication](https://help.github.com/articles/about-two-factor-authentication/).
-- Invite them as a full member to the [Gem.coop private Slack](https://gem-coop.slack.com/admin/invites) (and ensure they've read the [communication guidelines](Maintainer-Guidelines.md#communication)) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
+- Make them [moderators](https://github.com/organizations/gem-coop/settings/moderators) on the `gem-coop` GitHub organisation
+- Invite them as a full member to the [Gem.coop private Slack](https://gem-coop.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Ask them to disable SMS as a 2FA device or fallback on their GitHub account in favour of using one of the other authentication methods.
 - Ask them to (regularly) review and remove any unneeded [GitHub personal access tokens](https://github.com/settings/tokens).
 - Start the process to [add them as Gem.coop members](#members), for formal voting rights and the ability to hold office for Gem.coop.
@@ -80,7 +80,7 @@ When they cease to be a PLC member, revoke or downgrade their access to all of t
 If a maintainer is elected to the Gem.coop's [Technical Steering Committee](Gem.coop-Governance.md#7-technical-steering-committee):
 
 - Invite them to the [**@gem-coop/tsc** team](https://github.com/orgs/gem-coop/teams/tsc/members)
-- Make them [billing managers](https://github.com/organizations/gem-coop/settings/billing) and [moderators](https://github.com/organizations/gem-coop/settings/moderators) on the `gem-coop` GitHub organisation
+- Make them [billing managers](https://github.com/organizations/gem-coop/settings/billing) on the `gem-coop` GitHub organisation
 
 When they cease to be a TSC member, revoke or downgrade their access to all of the above.
 
@@ -100,7 +100,7 @@ People who are either not eligible or willing to be Gem.coop maintainers but hav
 
 When admitted as members:
 
-- Invite them as a single-channel guest to the #members channel on the [`gem-coop` private Slack](https://gem-coop.slack.com/admin/invites) (and ensure they've read the [communication guidelines](Maintainer-Guidelines.md#communication)) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
+- Invite them as a single-channel guest to the #members channel on the [`gem-coop` private Slack](https://gem-coop.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Add them to the current year's membership list in the [governance repository](https://github.com/gem-coop/governance).
 
 If they are interested in doing ops/infrastructure/system administration work:

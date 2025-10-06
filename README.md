@@ -4,8 +4,6 @@
 - [Gem.Coop Governance](Gem.coop-Governance.md)
 - [Gem.Coop Leadership Responsibilities](Gem.coop-Leadership-Responsibilities.md)
 - [New Maintainer Checklist](New-Maintainer-Checklist.md)
-- [Maintainers: Avoiding Burnout](Maintainers-Avoiding-Burnout.md)
-- [Maintainer Guidelines](Maintainer-Guidelines.md)
 
 ## Who We Are
 

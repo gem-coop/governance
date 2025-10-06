@@ -119,8 +119,6 @@
 
 1. A member of the TSC, except the Project Leader, must only be removed from the TSC by an ordinary resolution of the PLC.
 
-1. All members of the TSC will be "moderators" of the GitHub organisation.
-
 1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Slack, 1Password and any related resources.
 
 ## 8. Maintainers
@@ -128,6 +126,8 @@
 1. All maintainers are automatically members. Some, not all, members are maintainers.
 
 1. Maintainers are members with commit/write-access to at least one primary repository.
+
+1. All maintainers will be "moderators" of the GitHub organisation.
 
 1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #tsc private Gem.coop Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
 
