@@ -105,7 +105,7 @@
 
 1. The Project Leader must be a maintainer, not just a member.
 
-1. The Project Leader will be an "Owner" of the Gem.coop organization, Slack, 1Password and any related resources.
+1. The Project Leader will be an "Owner" of the Gem.coop GitHub Organization, Slack, 1Password and any related resources.
 
 ## 7. Technical Steering Committee
 
