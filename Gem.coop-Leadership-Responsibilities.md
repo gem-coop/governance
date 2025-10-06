@@ -36,7 +36,7 @@
       - An current or previously active maintainer, PLC/TSC member or Project Leader
       - A long-standing member of the Gem.coop community (e.g. been submitting good bug reports for over two years)
     - After the survey issue is closed, list the current year's members in a new file within [gem-coop/governance](https://github.com/gem-coop/governance)
-- October: arrange in-person AGM
+- October: arrange in-person or virtual AGM
   - Offer to pay for Gem.coop maintainers who are at least one of:
     - active Gem.coop maintainers (i.e. not just contributors)
     - new Gem.coop maintainers (i.e. this would be their first AGM)
