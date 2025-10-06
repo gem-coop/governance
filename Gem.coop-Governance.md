@@ -129,7 +129,7 @@
 
 1. Maintainers are members with commit/write-access to at least one primary repository.
 
-1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 24-hour period, excluding 19:00 UTC on Friday until 19:00 UTC on the following Monday. If there is opposition, the TSC must vote on the nomination in the #tsc private Gem.coop Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
+1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #tsc private Gem.coop Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
 
 1. In accordance with Gem.coop's organisational security posture, which requires operating under the principle of least privilege, the PL will review maintainers' write/commit access no later than six weeks before the AGM. The PL will remove maintainer privileges from those who have not consistently met these criteria:
 
