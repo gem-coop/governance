@@ -70,7 +70,7 @@
 
 1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
 
-1. One member of the PLC other than the PL will have an `Owner` role in the GitHub organization and any related resources. The PLC will choose this person, with preference given to any PLC members who are current Gem.coop maintainers. If no PLC members are Gem.coop maintainers, any PLC member qualifies for the `Owner` role.
+1. One member of the PLC other than the PL will have an `Owner` role in the GitHub organization and any related resources as a backup to increase the bus factor in event of the PL being incapacitated. The PLC will choose this person, with preference given to any PLC members who are current Gem.coop maintainers. If no PLC members are Gem.coop maintainers, any PLC member qualifies for the `Owner` role.
 
 ## 5. Meetings of the Project Leadership Committee
 
