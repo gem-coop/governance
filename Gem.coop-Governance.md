@@ -27,7 +27,7 @@
 ## 3. General Meetings of Members
 
 1. A general meeting of the members may be called by either an ordinary resolution of the PLC or a majority of the entire membership. The membership must be given at least three weeks' notice of a general meeting.
-   The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should be an online video conference.
+   The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
 1. The quorum to vote on resolutions and elections at a general meeting is 3 voting members or 10% of the voting members, whichever is greater.
    A general meeting with no business except voting should be asynchronous.
