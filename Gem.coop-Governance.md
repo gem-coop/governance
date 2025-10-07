@@ -9,8 +9,7 @@
 - An ordinary resolution requires a majority of the votes cast.
 - A special resolution requires a two-thirds supermajority of the votes cast.
 - Primary repositories: the most important repositories in the Gem.coop organisation:
-  - [gem-coop/todo](https://github.com/gem-coop/todo) ([contributions](https://github.com/gem-coop/todo/graphs/contributors))
-  - ?
+  - [gem-coop/gem.coop](https://github.com/gem-coop/gem.coop) ([contributions](https://github.com/gem-coop/gem.coop/graphs/contributors))
 
 ## 2. Members
 
@@ -61,7 +60,7 @@
 
 1. The PLC consists of five members, one of whom is the Project Leader. The other committee members are elected by Gem.coop members in a [Meek Single Transferable Vote](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek's_method) election using the Droop quota. Each PLC member will serve a term of two years or until the member's successor is elected. Any sudden vacancy in the PLC will be filled by the usual procedure for electing PLC members at the next general meeting, typically the next AGM.
 
-1. When a PLC seat is up for election or is vacant, any member may become a candidate for the PLC by providing a brief statement in the `#members` channel in Gem.coop's Slack expressing relevant experience and intentions if elected no later than three weeks before the AGM. The PLC will maintain the candidate list until ballots are sent out one week before the AGM, during which time members should cast their votes. Candidates should deliver remarks in writing or verbally before or during the AGM but votes already cast are not changeable. The current PLC should vote on and publish a statement recommending their preferred candidates within the three-week period between the candidate deadline and the AGM.
+1. When a PLC seat is up for election or is vacant, any member may become a candidate for the PLC by providing a brief statement in the `#gem-coop-members` channel in Bundler Slack expressing relevant experience and intentions if elected no later than three weeks before the AGM. The PLC will maintain the candidate list until ballots are sent out one week before the AGM, during which time members should cast their votes. Candidates should deliver remarks in writing or verbally before or during the AGM but votes already cast are not changeable. The current PLC should vote on and publish a statement recommending their preferred candidates within the three-week period between the candidate deadline and the AGM.
 
 1. The PLC must report all minutes, participants in discussions and breakdowns of any votes cast to Gem.coop members in the gem-coop/governance GitHub repository no later than one week after the action has been taken. At the AGM, the PLC must present a summary of their activities and decisions since the last AGM. Financial statements can be viewed by anyone on the internet on [Gem.coop's OpenCollective](https://opencollective.com/gem-coop).
 
@@ -69,7 +68,7 @@
 
 1. A member of the PLC must only be removed from the PLC by a special resolution of the membership.
 
-1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Slack, 1Password where possible).
+1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
 
 1. One member of the PLC other than the PL will have an `Owner` role in the GitHub organization and any related resources. The PLC will choose this person, with preference given to any PLC members who are current Gem.coop maintainers. If no PLC members are Gem.coop maintainers, any PLC member qualifies for the `Owner` role.
 
@@ -105,7 +104,7 @@
 
 1. The Project Leader must be a maintainer, not just a member.
 
-1. The Project Leader will be an "Owner" of the Gem.coop GitHub Organization, Slack, 1Password and any related resources.
+1. The Project Leader will be an "Owner" of the Gem.coop GitHub Organization, Bundler Slack and any related resources.
 
 ## 7. Technical Steering Committee
 
@@ -119,7 +118,7 @@
 
 1. A member of the TSC, except the Project Leader, must only be removed from the TSC by an ordinary resolution of the PLC.
 
-1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Slack, 1Password and any related resources.
+1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Bundler Slack and any related resources.
 
 ## 8. Maintainers
 
@@ -129,7 +128,7 @@
 
 1. All maintainers will be "moderators" of the GitHub organisation.
 
-1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #tsc private Gem.coop Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
+1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #gem-coop-tsc private Bundler Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
 
 1. In accordance with Gem.coop's organisational security posture, which requires operating under the principle of least privilege, the PL will review maintainers' write/commit access no later than six weeks before the AGM. The PL will remove maintainer privileges from those who have not consistently met these criteria:
 
@@ -137,7 +136,7 @@
 - reviewing and merging of PRs of other maintainers and contributors in primary repositories
   - the PL will exclude from consideration non-essential pull requests submitted and merged by the same person
 - reviewing any direct GitHub review requests in any repository in the Gem.coop organisation
-- responding to direct mentions on GitHub and direct mentions in Slack from the PL and other maintainers
+- responding to direct mentions on GitHub and direct mentions in Bundler Slack from the PL and other maintainers
 - maintaining a positive working relationship with the PL and other maintainers
 - engaging actively to resolve conflict with the PL or other maintainers, with a neutral intermediary upon request
 
@@ -159,7 +158,7 @@ If the TSC or PL feels that the maintainer has not made sufficient progress on t
 The TSC or PL may request a review in the event of noticeable no communication inactivity or unresponsiveness.
 The TSC will consider appeals no more than once per quarter per maintainer until the next AGM.
 
-In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Slack, 1Password, etc.).
+In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
 
 Upon doing so, the remover must immediately inform the PLC and the TSC. The PLC and TSC must review the removal of any maintainer removed under this clause within two weeks and may instruct the PL to restore the maintainer's privileges if the situation is resolved. This is considered to be the maintainer removal appeal process, as mentioned above.
 

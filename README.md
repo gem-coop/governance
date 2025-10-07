@@ -5,7 +5,14 @@
 - [Gem.Coop Leadership Responsibilities](Gem.coop-Leadership-Responsibilities.md)
 - [New Maintainer Checklist](New-Maintainer-Checklist.md)
 
+## Related Resources
+
+- [Gem.coop's OpenCollective](https://opencollective.com/gem-coop)
+- [Bundler's Slack](https://bundler.slack.com) (contains `gem-coop` prefixed channels)
+
 ## Who We Are
+
+Gem.coop's governance is being bootstrapped by [Mike McQuaid](https://github.com/MikeMcQuaid).
 
 Gem.coop's [Project Leader](Gem.coop-Governance.md#6-project-leader) is not yet elected.
 

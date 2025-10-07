@@ -52,7 +52,7 @@ If they accept, follow a few steps to get them set up:
 
 - Invite them to the [**@gem-coop/maintainers** team](https://github.com/orgs/gem-coop/teams/maintainers) (or any relevant [subteams](https://github.com/orgs/gem-coop/teams/maintainers/teams)) to give them write access to relevant repositories (but don't make them owners). They will need to enable [GitHub's Two Factor Authentication](https://help.github.com/articles/about-two-factor-authentication/).
 - Make them [moderators](https://github.com/organizations/gem-coop/settings/moderators) on the `gem-coop` GitHub organisation
-- Invite them as a full member to the [Gem.coop private Slack](https://gem-coop.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
+- Invite them as a full member to the [Bundler Slack](https://bundler.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Ask them to disable SMS as a 2FA device or fallback on their GitHub account in favour of using one of the other authentication methods.
 - Ask them to (regularly) review and remove any unneeded [GitHub personal access tokens](https://github.com/settings/tokens).
 - Start the process to [add them as Gem.coop members](#members), for formal voting rights and the ability to hold office for Gem.coop.
@@ -71,7 +71,6 @@ If a maintainer or member is elected to the Gem.coop's [Project Leadership Commi
 
 - Invite them to the [**@gem-coop/plc** team](https://github.com/orgs/gem-coop/teams/plc/members)
 - Make them [billing managers](https://github.com/organizations/gem-coop/settings/billing) and [moderators](https://github.com/organizations/gem-coop/settings/moderators) on the `gem-coop` GitHub organisation
-- Invite them to the [Gem.coop private 1Password](https://gem-coop.1password.com/people) and add them to the "plc" group.
 
 When they cease to be a PLC member, revoke or downgrade their access to all of the above.
 
@@ -89,8 +88,7 @@ When they cease to be a TSC member, revoke or downgrade their access to all of t
 The Project Leader, one other PLC member (ideally a maintainer), and one other TSC member should be made owners on GitHub and Slack:
 
 - Make them owners on the [`gem-coop` GitHub organisation](https://github.com/orgs/gem-coop/people)
-- Make them owners on the [Gem.coop private Slack](https://gem-coop.slack.com/admin)
-- Make them owners on the [Gem.coop private 1Password](https://gem-coop.1password.com/people)
+- Make them owners on the [Bundler Slack](https://bundler.slack.com/admin)
 
 When they cease to be an owner, revoke or downgrade their access to all of the above.
 
@@ -100,15 +98,7 @@ People who are either not eligible or willing to be Gem.coop maintainers but hav
 
 When admitted as members:
 
-- Invite them as a single-channel guest to the #members channel on the [`gem-coop` private Slack](https://gem-coop.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
+- Invite them as a single-channel guest to the #gem-coop-members channel on the [Bundler Slack](https://bundler.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Add them to the current year's membership list in the [governance repository](https://github.com/gem-coop/governance).
-
-If they are interested in doing ops/infrastructure/system administration work:
-
-- Invite them to the [Gem.coop private 1Password](https://gem-coop.1password.com/people) and add them to the "ops" group.
-
-If they are interested in doing security work:
-
-- Invite them to the [Gem.coop private 1Password](https://gem-coop.1password.com/people) and add them to the "security" group.
 
 See [Gem.coop Governance](Gem.coop-Governance.md) for when an individual's membership expires.

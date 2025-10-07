@@ -25,7 +25,7 @@
   - Ask the project leader and representatives of the PLC and TSC to prepare reports for the AGM
   - Ask for members interested in presenting lightning talks at the AGM
 - February: organise the annual general meeting (AGM)
-  - Create a dedicated Slack channel
+  - Create a dedicated Bundler Slack channel
   - Book a group dinner (which Gem.coop pays for) and check for any dietary requirements
   - Ask someone to bring a conference/table microphone for people to be able to remotely participate in AGM
   - Reconsider current OpenCollective invoice hourly rates based on e.g. inflation
