@@ -19,7 +19,7 @@
 
 1. A member may be removed from Gem.coop by an ordinary resolution of the PLC. A removed member may be reinstated by the usual admission process.
 
-1. All members will follow the [Gem.coop's Code of Conduct](https://github.com/gem-coop/.github/blob/HEAD/CODE_OF_CONDUCT.md). Changes to the code of conduct must be approved by the PLC.
+1. All members will follow the [Gem.coop's Code of Conduct](https://github.com/gem-coop/.github/blob/HEAD/CODE_OF_CONDUCT.md). Changes to the code of conduct must be approved by the PLC by ordinary resolution.
 
 1. Members should abstain from voting when they have a conflict of interest not shared by other members. No one may be compelled to abstain from voting.
 
@@ -82,7 +82,7 @@
 
 1. The PLC will annually review the status of all members and remove members who did not vote in the AGM and then did not re-affirm a commitment to Gem.coop. Voting in the AGM confirms that a member wishes to remain active with the project. After the AGM, the PLC will ask the members who did not vote whether they wish to remain active with the project. The PLC removes any members who don't respond to this second request after three weeks.
 
-1. The PLC will appoint the members of the TSC.
+1. The PLC will appoint the members of the TSC by ordinary resolution.
 
 1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
 
@@ -92,7 +92,7 @@
 
 1. The Project Leader will be elected every two years by Gem.coop members in a [Schulze Condorcet method](https://en.wikipedia.org/wiki/Schulze_method) (aka 'beatpath') election. The PLC will nominate at least one candidate for Project Leader. Any member may nominate a candidate, or self-nominate. Nominations must be announced to the membership three weeks before the AGM.
 
-1. Any vacancy of the Project Leader will be filled by appointment of the PLC.
+1. Any vacancy of the Project Leader will be filled by an ordinary resolution of the PLC.
 
 1. A technical decision of the Project Leader may be overruled by an ordinary resolution of the TSC.
 
@@ -110,7 +110,7 @@
 
 1. The TSC has the authority to decide on any technical disputes between any maintainer and the Project Leader. Disputes not involving the Project Leader must be addressed through the Project Leader.
 
-1. The PL is one member of the TSC. The PLC will appoint between two and five maintainers to be members of the TSC. It is recommended that PLC members are not be any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
+1. The PL is one member of the TSC. The PLC will appoint 3 maintainers to be members of the TSC by ordinary resolution. It is recommended that PLC members are not be any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
 
 1. Any member may refer any technical question or dispute to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the TSC.
 
