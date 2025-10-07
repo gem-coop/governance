@@ -155,7 +155,7 @@ A member of the TSC, who is not the PL, will respond immediately upon upholding 
 The PL will restore access as soon as is feasible if the TSC votes to reverse the removal.
 If the TSC or PL feels that the maintainer has not made sufficient progress on the criteria for any reversed removal,
   they may request a second TSC review no sooner than 30 days after the initial reversal.
-The TSC or PL may request a review in the event of noticeable no communication inactivity or unresponsiveness.
+In the event of a prolonged period of inactivity or lack of communication by a maintainer, the TSC or PL may request a review.
 The TSC will consider appeals no more than once per quarter per maintainer until the next AGM.
 
 In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
