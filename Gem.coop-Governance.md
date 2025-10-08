@@ -6,30 +6,29 @@
 - PLC: Project Leadership Committee
 - TSC: Technical Steering Committee
 - AGM: Annual General Meeting
-- An ordinary resolution requires a majority of the votes cast.
-- A special resolution requires a two-thirds supermajority of the votes cast.
+- A supermajority requires a two-thirds of the votes cast.
 - Primary repositories: the most important repositories in the Gem.coop organisation:
   - [gem-coop/gem.coop](https://github.com/gem-coop/gem.coop) ([contributions](https://github.com/gem-coop/gem.coop/graphs/contributors))
 
 ## 2. Members
 
-1. New members (unless nominated as maintainers, see below) will be admitted by an ordinary resolution of the PLC and added to the `gem-coop` organisation on GitHub.
+1. New members (unless nominated as maintainers, see below) will be admitted by a majority of the PLC and added to the `gem-coop` organisation on GitHub.
 
 1. Members are expected to remain active within Gem.coop. Members who are not active maintainers or active committee members must affirm their continued interest in Gem.coop membership annually by voting on annual measures, even if voting abstention. Inactive, non-affirmed, non-voting members will be removed within 14 days after the annual meeting unless excused by the PLC.
 
-1. A member may be removed from Gem.coop by an ordinary resolution of the PLC. A removed member may be reinstated by the usual admission process.
+1. A member may be removed from Gem.coop by a majority of the PLC. A removed member may be reinstated by the usual admission process.
 
-1. All members will follow the [Gem.coop's Code of Conduct](https://github.com/gem-coop/.github/blob/HEAD/CODE_OF_CONDUCT.md). Changes to the code of conduct must be approved by the PLC by ordinary resolution.
+1. All members will follow the [Gem.coop's Code of Conduct](https://github.com/gem-coop/.github/blob/HEAD/CODE_OF_CONDUCT.md). Changes to the code of conduct must be approved by a majority of the PLC.
 
 1. Members should abstain from voting when they have a conflict of interest not shared by other members. No one may be compelled to abstain from voting.
 
 ## 3. General Meetings of Members
 
-1. A general meeting of the members may be called by either an ordinary resolution of the PLC or a the entire membership. The membership must be given at least three weeks' notice of a general meeting.
+1. A general meeting of the members may be called by either a majority of the PLC or a the entire membership. The membership must be given at least three weeks' notice of a general meeting.
 1. Any member can request a general meeting in the `#gem-coop-members` Slack channel. The general meeting will take place if the request gets 👍 reactions from the majority of the membership within one week.
    The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
-1. The quorum to vote on resolutions and elections at a general meeting is 3 voting members or 10% of the voting members, whichever is greater.
+1. The quorum for votes at a general meeting is 3 voting members or 10% of the voting members, whichever is greater.
    A general meeting with no business except voting should be asynchronous.
    Otherwise, it must be a synchronous online video conference or text chat.
    The voting will occur using an online voting system chosen by the PLC.
@@ -46,12 +45,13 @@
 
 ### 3.1. Amendments to these bylaws
 
-1. These bylaws must only be amended by a special resolution at a general meeting of the members.
+1. These bylaws must only be amended by a supermajority vote at a general meeting of the members.
 
-1. Any member may propose an amendment via pull request on GitHub against this document. Proposed amendments may be merged for consideration in aggregate with other amendments once more than half of the PLC has approved the pull request.
+1. Any member may propose an amendment via pull request on GitHub against this document. Proposed amendments can receive feedback by any members and be refined until the author sets the PR as ready.
 
-1. Members must vote on any amendments. All votes will be tallied.
-  Voting will open for three weeks once one or more amendment proposals are accepted unless the AGM is within one month, in which case the proposed amendments will be voted on at the same time as elections.
+1. Once ready, the PR needs to be approved by at least 3 voting members or 10% of the voting members in order to be voted by the entire membership.
+
+1. Once a PR is approved for voting, all members must vote on the amendment. Voting will open for three weeks once amendment proposals are accepted unless the AGM is within one month, in which case the proposed amendments will be voted on at the same time as elections.
 
 1. Any approved amendments will take effect three weeks after the close of voting.
 
@@ -59,7 +59,7 @@
 
 1. The financial administration of Gem.coop, organisation of the AGM, enforcement of the code of conduct and removal of members are performed by the PLC. The PLC will represent Gem.coop in all dealings with Open Collective.
 
-1. The PLC consists of five members, one of whom is the Project Leader. The other committee members are elected by Gem.coop members in a [Meek Single Transferable Vote](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek's_method) election using the Droop quota. Each PLC member will serve a term of two years or until the member's successor is elected. Any sudden vacancy in the PLC will be filled by the usual procedure for electing PLC members at the next general meeting, typically the next AGM.
+1. The PLC consists of three members, one of whom is the Project Leader. The other committee members are elected by Gem.coop members in a [Meek Single Transferable Vote](https://en.wikipedia.org/wiki/Counting_single_transferable_votes#Meek's_method) election using the Droop quota. Each PLC member will serve a term of two years or until the member's successor is elected. Any sudden vacancy in the PLC will be filled by the usual procedure for electing PLC members at the next general meeting, typically the next AGM.
 
 1. When a PLC seat is up for election or is vacant, any member may become a candidate for the PLC by providing a brief statement in the `#gem-coop-members` channel in Bundler Slack expressing relevant experience and intentions if elected no later than three weeks before the AGM. The PLC will maintain the candidate list until ballots are sent out one week before the AGM, during which time members should cast their votes. Candidates should deliver remarks in writing or verbally before or during the AGM but votes already cast are not changeable. The current PLC should vote on and publish a statement recommending their preferred candidates within the three-week period between the candidate deadline and the AGM.
 
@@ -67,7 +67,7 @@
 
 1. No more than two employees of the same employer may serve on the PLC.
 
-1. A member of the PLC must only be removed from the PLC by a special resolution of the membership.
+1. A member of the PLC must only be removed from the PLC by a supermajority vote of the membership.
 
 1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
 
@@ -75,13 +75,9 @@
 
 1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, on a synchronous video call. For accessibility a synchronous text chat option should be available. The AGM date must be given with at least two months' advance notice.
 
-1. The quorum to vote on resolutions of the PLC is a majority of its members. In an electronic vote, a voting period of one week replaces the quorum requirement. Any approved resolution will take effect immediately.
-
-1. A majority of the entire membership of the PLC is required to pass an ordinary resolution.
-
 1. The PLC will annually review the status of all members and remove members who did not vote in the AGM and then did not re-affirm a commitment to Gem.coop. Voting in the AGM confirms that a member wishes to remain active with the project. After the AGM, the PLC will ask the members who did not vote whether they wish to remain active with the project. The PLC removes any members who don't respond to this second request after three weeks.
 
-1. The PLC will appoint the members of the TSC by ordinary resolution.
+1. A majority vote of the PLC will appoint the members of the TSC.
 
 1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
 
@@ -91,13 +87,13 @@
 
 1. The Project Leader will be elected every two years by Gem.coop members in a [Schulze Condorcet method](https://en.wikipedia.org/wiki/Schulze_method) (aka 'beatpath') election. The PLC will nominate at least one candidate for Project Leader. Any member may nominate a candidate, or self-nominate. Nominations must be announced to the membership three weeks before the AGM.
 
-1. Any vacancy of the Project Leader will be filled by an ordinary resolution of the PLC.
+1. Any vacancy of the Project Leader will be filled by a supermajority vote of the PLC. If supermajority consensus cannot be reached, it will follow the usual membership voting and selection process
 
-1. A technical decision of the Project Leader may be overruled by an ordinary resolution of the TSC.
+1. A technical decision of the Project Leader may be overruled by a majority vote of the TSC.
 
-1. A non-technical decision of the Project Leader may be overruled by an ordinary resolution of the PLC.
+1. A non-technical decision of the Project Leader may be overruled by a majority vote of the PLC.
 
-1. The Project Leader must only be removed from the position by a special resolution of the membership.
+1. The Project Leader must only be removed from the position by a supermajority vote of the membership.
 
 1. The Project Leader must be included in all PLC communications with or about Open Collective and in all communications related to joint responsibilities.
 
@@ -109,13 +105,13 @@
 
 1. The TSC has the authority to decide on any technical disputes between any maintainer and the Project Leader. Disputes not involving the Project Leader must be addressed through the Project Leader.
 
-1. The PL is one member of the TSC. The PLC will appoint 3 maintainers to be members of the TSC by ordinary resolution. It is recommended that PLC members are not be any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
+1. The PL is one member of the TSC. The PLC will appoint 3 maintainers to be members of the TSC by a majority vote. It is recommended that PLC members are not be any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
 
 1. Any member may refer any technical question or dispute to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the TSC.
 
 1. No more than two employees of the same employer may serve on the TSC.
 
-1. A member of the TSC, except the Project Leader, must only be removed from the TSC by an ordinary resolution of the PLC.
+1. A member of the TSC, except the Project Leader, must only be removed from the TSC by a supermajority vote of the PLC.
 
 1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Bundler Slack and any related resources as a backup to increase the bus factor in event of the PL being incapacitated.
 
