@@ -25,7 +25,7 @@
 
 ## 3. General Meetings of Members
 
-1. A general meeting of the members may be called by either an ordinary resolution of the PLC or a majority of the entire membership. The membership must be given at least three weeks' notice of a general meeting.
+1. A general meeting of the members may be called by either an ordinary resolution of the PLC or a the entire membership. The membership must be given at least three weeks' notice of a general meeting.
 1. Any member can request a general meeting in the `#gem-coop-members` Slack channel. The general meeting will take place if the request gets 👍 reactions from the majority of the membership within one week.
    The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
@@ -70,8 +70,6 @@
 1. A member of the PLC must only be removed from the PLC by a special resolution of the membership.
 
 1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
-
-1. One member of the PLC other than the PL will have an `Owner` role in the GitHub organization and any related resources as a backup to increase the bus factor in event of the PL being incapacitated. The PLC will choose this person, with preference given to any PLC members who are current Gem.coop maintainers. If no PLC members are Gem.coop maintainers, any PLC member qualifies for the `Owner` role.
 
 ## 5. Meetings of the Project Leadership Committee
 
@@ -119,7 +117,7 @@
 
 1. A member of the TSC, except the Project Leader, must only be removed from the TSC by an ordinary resolution of the PLC.
 
-1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Bundler Slack and any related resources.
+1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Bundler Slack and any related resources as a backup to increase the bus factor in event of the PL being incapacitated.
 
 ## 8. Maintainers
 
