@@ -4,9 +4,11 @@
 
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 - PLC: Project Leadership Committee
+- PL: Project Lead
 - TSC: Technical Steering Committee
 - AGM: Annual General Meeting
-- A supermajority requires a two-thirds of the votes cast.
+- Majority: more than half of non-abstention votes cast.
+- Supermajority: two-thirds of non-abstention votes cast.
 - Primary repositories: the most important repositories in the Gem.coop organisation:
   - [gem-coop/gem.coop](https://github.com/gem-coop/gem.coop) ([contributions](https://github.com/gem-coop/gem.coop/graphs/contributors))
 
@@ -24,7 +26,8 @@
 
 ## 3. General Meetings of Members
 
-1. A general meeting of the members may be called by either a majority of the PLC or a the entire membership. The membership must be given at least three weeks' notice of a general meeting.
+1. A general meeting of the members may be called by either a majority of the PLC or the entire membership. The membership must be given at least three weeks' notice of a general meeting.
+
 1. Any member can request a general meeting in the `#gem-coop-members` Slack channel. The general meeting will take place if the request gets 👍 reactions from the majority of the membership within one week.
 
 1. The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
@@ -42,15 +45,15 @@
 
 1. The PLC will announce candidates and proposals three weeks prior to the election date.
 
-1. Members should cast their vote any time up to three weeks prior to the election date.
+1. Members should cast their vote during the 3 weeks prior to the election date.
 
 ### 3.1. Amendments to these bylaws
 
 1. These bylaws must only be amended by a supermajority vote at a general meeting of the members.
 
-1. Any member may propose an amendment via pull request on GitHub against this document. Proposed amendments can receive feedback by any members and be refined until the author sets the PR as ready.
+1. Any member may propose an amendment via pull request (PR) on GitHub against this document. Proposed draft amendments can receive feedback by any members and may be refined until the author sets the PR as ready.
 
-1. Once ready, the PR needs to be approved by at least 3 voting members or 10% of the voting members in order to be voted by the entire membership.
+1. Once ready, the PR needs to be approved by 3 members or 10% of members, whichever is greater, in order to be considered at the next general meeting.
 
 1. Once a PR is approved for voting, all members must vote on the amendment. Voting will open for three weeks once amendment proposals are accepted unless the AGM is within one month, in which case the proposed amendments will be voted on at the same time as elections.
 
@@ -88,7 +91,7 @@
 
 1. The Project Leader will be elected every two years by Gem.coop members in a [Schulze Condorcet method](https://en.wikipedia.org/wiki/Schulze_method) (aka 'beatpath') election. The PLC will nominate at least one candidate for Project Leader. Any member may nominate a candidate, or self-nominate. Nominations must be announced to the membership three weeks before the AGM.
 
-1. Any vacancy of the Project Leader will be filled by a supermajority vote of the PLC. If supermajority consensus cannot be reached, it will follow the usual membership voting and selection process
+1. Any vacancy of the Project Leader will be filled by a supermajority vote of the PLC. If supermajority consensus cannot be reached, it will follow the usual membership voting and selection process.
 
 1. A technical decision of the Project Leader may be overruled by a majority vote of the TSC.
 
@@ -124,38 +127,46 @@
 
 1. All maintainers will be "moderators" of the GitHub organisation.
 
-1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from one of the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #gem-coop-tsc private Bundler Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
+1. New maintainers can be nominated by any existing maintainer. To become a maintainer, a nomination requires approval from the PL or any member of the TSC with no opposition from any of these people within a 1 week period. If there is opposition, the TSC must vote on the nomination in the #gem-coop-tsc private Bundler Slack channel, with the vote closing after one week or after the outcome of the vote would not be changed by any subsequent votes (such as when a majority of the TSC has voted in favour or against). The nomination will succeed by a simple majority vote of the votes cast.
 
 1. In accordance with Gem.coop's organisational security posture, which requires operating under the principle of least privilege, the PL will review maintainers' write/commit access no later than six weeks before the AGM. The PL will remove maintainer privileges from those who have not consistently met these criteria:
 
-- having more contributions to primary repositories than the majority of non-maintainer contributors in at least one of these repositories
-- reviewing and merging of PRs of other maintainers and contributors in primary repositories
-  - the PL will exclude from consideration non-essential pull requests submitted and merged by the same person
-- reviewing any direct GitHub review requests in any repository in the Gem.coop organisation
-- responding to direct mentions on GitHub and direct mentions in Bundler Slack from the PL and other maintainers
-- maintaining a positive working relationship with the PL and other maintainers
-- engaging actively to resolve conflict with the PL or other maintainers, with a neutral intermediary upon request
+  - having more contributions to primary repositories than the majority of non-maintainer contributors in at least one of these repositories
+  - reviewing and merging of PRs of other maintainers and contributors in primary repositories
+    - the PL will exclude from consideration non-essential pull requests submitted and merged by the same person
+  - reviewing any direct GitHub review requests in any repository in the Gem.coop organisation
+  - responding to direct mentions on GitHub and direct mentions in Bundler Slack from the PL and other maintainers
+  - maintaining a positive working relationship with the PL and other maintainers
+  - engaging actively to resolve conflict with the PL or other maintainers, with a neutral intermediary upon request
 
-Maintainers who do not fulfil these requirements will be removed as a maintainer but may remain a member if they wish.
+1. Maintainers who do not fulfil these requirements will be removed as a maintainer but may remain a member if they wish.
 
-The PL will not consider the following activities because they do not require commit or write access on security-critical repositories:
+1. The PL will not consider the following activities because they do not require commit or write access on security-critical repositories:
 
-- contributions to the wider Gem.coop organisation, repositories excluding the main, security-critical repositories, or the greater Gem.coop ecosystem
-- contributions in previous years as a maintainer or contributor
-- contributions to the governance documents, the PLC, social media, Gem.coop's discussion forum, etc.
+  - contributions to the wider Gem.coop organisation, repositories excluding the main, security-critical repositories, or the greater Gem.coop ecosystem
+  - contributions in previous years as a maintainer or contributor
+  - contributions to the governance documents, the PLC, social media, Gem.coop's discussion forum, etc.
 
-If a maintainer wishes to appeal their removal, they may request a TSC review of the decision. This appeal must be lodged within 72 hours of removal.
-The appellant will confirm their intent to address any unfulfilled criteria which caused the removal.
-The TSC will review the decision within one week.
-A member of the TSC, who is not the PL, will respond immediately upon upholding or reversing the decision.
-The PL will restore access as soon as is feasible if the TSC votes to reverse the removal.
-If the TSC or PL feels that the maintainer has not made sufficient progress on the criteria for any reversed removal,
-  they may request a second TSC review no sooner than 30 days after the initial reversal.
-In the event of a prolonged period of inactivity or lack of communication by a maintainer, the TSC or PL may request a review.
-The TSC will consider appeals no more than once per quarter per maintainer until the next AGM.
+### 8.1 Maintainer Appeals
 
-In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
+1. If a maintainer wishes to appeal their removal, they may request a TSC review of the decision. This appeal must be lodged within 72 hours of notice of removal.
 
-Upon doing so, the remover must immediately inform the PLC and the TSC. The PLC and TSC must review the removal of any maintainer removed under this clause within two weeks and may instruct the PL to restore the maintainer's privileges if the situation is resolved. This is considered to be the maintainer removal appeal process, as mentioned above.
+1. The appellant will confirm their intent to address any unfulfilled criteria which caused the removal.
 
-The TSC will document the situation in an incident report to be shared with members. The report should recommend changes to security settings, maintainer policy, this governance document or any additional measures required to prevent the situation from occurring again.
+1. The TSC will review the decision within one week.
+
+1. A member of the TSC, who is not the PL, will respond immediately upon upholding or reversing the decision. The PL will restore access as soon as is feasible if the TSC votes to reverse the removal.
+
+1. If the TSC or PL feels that the maintainer has not made sufficient progress on the criteria for any reversed removal, they may request a second TSC review no sooner than 30 days after the initial removal.
+
+1. The TSC will consider appeals no more than once per quarter per maintainer until the next AGM.
+
+### 8.2 Emergency Removals
+
+1. In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
+
+1. Upon doing so, the remover must immediately inform the PLC and the TSC.
+
+1. An automatic appeal process is started for any maintainer removed under this provision. The PLC and TSC must review the emergency removal of any maintainer within two weeks and may instruct the PL to restore the maintainer's privileges if the situation is resolved.
+
+1. The TSC will document the situation in an incident report to be shared with members. The report should recommend changes to security settings, maintainer policy, this governance document or any additional measures required to prevent the situation from occurring again.
