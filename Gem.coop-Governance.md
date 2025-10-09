@@ -65,7 +65,7 @@
 
 1. The PLC must report all minutes, participants in discussions and breakdowns of any votes cast to Gem.coop members in the gem-coop/governance GitHub repository no later than one week after the action has been taken. At the AGM, the PLC must present a summary of their activities and decisions since the last AGM. Financial statements can be viewed by anyone on the internet on [Gem.coop's OpenCollective](https://opencollective.com/gem-coop).
 
-1. No more than two employees of the same employer may serve on the PLC.
+1. No more than one employee of the same employer may serve on the PLC.
 
 1. A member of the PLC must only be removed from the PLC by a supermajority vote of the membership.
 
@@ -109,7 +109,7 @@
 
 1. Any member may refer any technical question or dispute to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the TSC.
 
-1. No more than two employees of the same employer may serve on the TSC.
+1. No more than one employee of the same employer may serve on the TSC.
 
 1. A member of the TSC, except the Project Leader, must only be removed from the TSC by a supermajority vote of the PLC.
 
