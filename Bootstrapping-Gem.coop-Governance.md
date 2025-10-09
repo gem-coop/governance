@@ -9,11 +9,13 @@ These are the steps that will be followed to bootstrap this governance process
 - Mike McQuaid opens a pull request adding all other files to this repository
 - A subset of existing RubyGems maintainers will be added to the `gem-coop` GitHub organisation to discuss the governance pull request(s)
 - These maintainers can propose their own pull requests to files
+- Mike McQuaid finalises the initial governance documents once a majority voted in favour
+- Mike McQuaid makes the governance repository public
+- Mike McQuaid will leave the GitHub organisation
 - Candidates for the Project Leader and Project Leadership Committee will put their names forward for election
-- Everyone with RubyGems maintainer contributions in the last year (<https://mikemcquaid.com/rubygems-contribution-data-with-homebrews-tooling/> will be given a vote
-- Mike McQuaid will setup the voting using OpaVote, tally and announce the results
+- A selection of those who made of RubyGems contributions in the last year will be given a vote
+- Someone will setup the voting using OpaVote, tally and announce the results
 - When a Project Leader and Project Leadership Committee have been appointed, they will in turn appoint the maintainers and, from them, the Technical Steering Committee
 - Everyone who voted will be made a Member and granted a vote in the following year
 - Everyone else will be removed from the GitHub Organisation
 - The Gem.coop governance documents will apply from this point
-- Mike McQuaid will leave the GitHub organisation and pass over all access to the Project Leadership Committee (PLC)
