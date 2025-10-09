@@ -98,7 +98,7 @@ People who are either not eligible or willing to be Gem.coop maintainers but hav
 
 When admitted as members:
 
-- Invite them as a single-channel guest to the #gem-coop-members channel on the [Bundler Slack](https://bundler.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
+- Invite them as a private member of the #gem-coop-members channel on the [Bundler Slack](https://bundler.slack.com/admin/invites) and ask them to use their real name there (rather than a pseudonym they may use on e.g. GitHub).
 - Add them to the current year's membership list in the [governance repository](https://github.com/gem-coop/governance).
 
 See [Gem.coop Governance](Gem.coop-Governance.md) for when an individual's membership expires.
