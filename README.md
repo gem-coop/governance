@@ -12,7 +12,7 @@
 
 ## Who We Are
 
-Gem.coop's governance is being bootstrapped by [Mike McQuaid](https://github.com/MikeMcQuaid).
+Gem.coop's governance was initially guided by [Mike McQuaid](https://github.com/MikeMcQuaid).
 
 Gem.coop's [Project Leader](Gem.coop-Governance.md#6-project-leader) is not yet elected.
 
