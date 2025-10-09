@@ -77,7 +77,7 @@
 
 1. The Project Leader will be elected every two years by Gem.coop members in a [Schulze Condorcet method](https://en.wikipedia.org/wiki/Schulze_method) (aka 'beatpath') election. The PLC will nominate at least one candidate for Project Leader. Any member may nominate a candidate, or self-nominate. Nominations must be announced to the membership three weeks before the AGM.
 
-1. Any vacancy of the Project Leader will be filled by a supermajority vote of the PLC. If supermajority consensus cannot be reached, it will follow the usual membership voting and selection process.
+1. In case of a casual vacancy of the Project Leader, an interim will be appointed by a supermajority vote of the PLC. In that moment, the usual membership voting and selection process will start to choose a new permament PL. If the PLC cannot reach supermajority consensus to choose an interim, the position will remain vacant until the membership chooses a new PL.
 
 1. A technical decision of the Project Leader may be overruled by a majority vote of the TSC.
 
