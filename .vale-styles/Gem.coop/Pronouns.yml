@@ -1,0 +1,14 @@
+---
+extends: existence
+message: Avoid gender-specific language when not necessary.
+level: error
+ignorecase: true
+tokens:
+  - him
+  - her
+  - she
+  - he
+  - his
+  - hers
+  - himself
+  - herself

@@ -1,0 +1,11 @@
+---
+extends: substitution
+message: Use '%s' instead of '%s'.
+level: error
+scope: paragraph
+
+swap:
+  Rubocop: RuboCop
+  Rubygems: RubyGems
+  rubygems: RubyGems
+  '(?<!^\{.*|^!/.*)ruby': Ruby # FIXME: https://github.com/errata-ai/vale/issues/818

@@ -1,0 +1,39 @@
+name: Governance
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash -xeuo pipefail {0}
+
+jobs:
+  governance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Homebrew
+        id: set-up-homebrew
+        uses: Homebrew/actions/setup-homebrew@main
+        with:
+          core: false
+          cask: false
+
+      - name: Checkout repository
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Install vale and markdownlint-cli
+        run: brew install vale markdownlint-cli
+
+      - name: Run Vale
+        run: vale .
+
+      - name: Run MarkdownLint
+        run: markdownlint .
