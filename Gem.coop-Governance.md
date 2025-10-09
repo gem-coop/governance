@@ -53,9 +53,7 @@
 
 1. Once ready, the PR needs to be approved by 3 members or 10% of members, whichever is greater, in order to be considered at the next general meeting.
 
-1. Once a PR is approved for voting, all members must vote on the amendment. Voting will open for three weeks once amendment proposals are accepted unless the AGM is within one month, in which case the proposed amendments will be voted on at the same time as elections.
-
-1. Any approved amendments will take effect three weeks after the close of voting.
+1. Once a PR is approved for voting, all members must vote on the amendment. Voting will happen during the next general meeting of members. That will normally be the next AGM, but any member can request an earlier general meeting if necessary.
 
 ## 4. Project Leadership Committee
 
