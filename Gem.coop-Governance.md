@@ -127,21 +127,21 @@
 
 1. In accordance with Gem.coop's organisational security posture, which requires operating under the principle of least privilege, the PL will review maintainers' write/commit access no later than six weeks before the AGM. The PL will remove maintainer privileges from those who have not consistently met these criteria:
 
-  - having more contributions to primary repositories than the majority of non-maintainer contributors in at least one of these repositories
-  - reviewing and merging of PRs of other maintainers and contributors in primary repositories
-    - the PL will exclude from consideration non-essential pull requests submitted and merged by the same person
-  - reviewing any direct GitHub review requests in any repository in the Gem.coop organisation
-  - responding to direct mentions on GitHub and direct mentions in Bundler Slack from the PL and other maintainers
-  - maintaining a positive working relationship with the PL and other maintainers
-  - engaging actively to resolve conflict with the PL or other maintainers, with a neutral intermediary upon request
+- having more contributions to primary repositories than the majority of non-maintainer contributors in at least one of these repositories
+- reviewing and merging of PRs of other maintainers and contributors in primary repositories
+  - the PL will exclude from consideration non-essential pull requests submitted and merged by the same person
+- reviewing any direct GitHub review requests in any repository in the Gem.coop organisation
+- responding to direct mentions on GitHub and direct mentions in Bundler Slack from the PL and other maintainers
+- maintaining a positive working relationship with the PL and other maintainers
+- engaging actively to resolve conflict with the PL or other maintainers, with a neutral intermediary upon request
 
 1. Maintainers who do not fulfil these requirements will be removed as a maintainer but may remain a member if they wish.
 
 1. The PL will not consider the following activities because they do not require commit or write access on security-critical repositories:
 
-  - contributions to the wider Gem.coop organisation, repositories excluding the main, security-critical repositories, or the greater Gem.coop ecosystem
-  - contributions in previous years as a maintainer or contributor
-  - contributions to the governance documents, the PLC, social media, Gem.coop's discussion forum, etc.
+- contributions to the wider Gem.coop organisation, repositories excluding the main, security-critical repositories, or the greater Gem.coop ecosystem
+- contributions in previous years as a maintainer or contributor
+- contributions to the governance documents, the PLC, social media, Gem.coop's discussion forum, etc.
 
 ### 8.1 Maintainer Appeals
 
