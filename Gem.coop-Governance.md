@@ -26,9 +26,7 @@
 
 ## 3. General Meetings of Members
 
-1. A general meeting of the members may be called by either a majority of the PLC or the entire membership. The membership must be given at least three weeks' notice of a general meeting.
-
-1. Any member can request a general meeting in the `#gem-coop-members` Slack channel. The general meeting will take place if the request gets 👍 reactions from the majority of the membership within one week.
+1. Any member can request a general meeting of the members in the `#gem-coop-members` Slack channel. A general meeting may be called by either a majority vote of the PLC or the entire membership using Slack 👍 reactions. The membership must be given at least three weeks' notice of a general meeting.
 
 1. The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
