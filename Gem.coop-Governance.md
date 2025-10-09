@@ -61,6 +61,8 @@
 
 1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
 
+1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
+
 ## 3.1. Meetings of the Project Leadership Committee
 
 1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, or, alternatively, on a synchronous video call. For accessibility a synchronous text chat option should be available.
@@ -68,8 +70,6 @@
 1. The PLC will annually review the status of all members and remove members who did not vote in the AGM and then did not re-affirm a commitment to Gem.coop. Voting in the AGM confirms that a member wishes to remain active with the project. After the AGM, the PLC will ask the members who did not vote whether they wish to remain active with the project. The PLC removes any members who don't respond to this second request after three weeks.
 
 1. A majority vote of the PLC will appoint the members of the TSC.
-
-1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
 
 ## 4. Project Leader
 
