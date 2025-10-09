@@ -28,7 +28,7 @@
 
 1. Gem.coop members will meet at the annual general meeting (AGM) in a manner determined by the PLC. The AGM date must be given with at least two months' advance notice.
 
-1. Any member can request additional general meetings of the members in the `#gem-coop-members` Slack channel. A general meeting may be called by either a majority vote of the PLC or the entire membership using Slack 👍 reactions. The membership must be given at least three weeks' notice of a general meeting.
+1. Any member can request additional general meetings of the members in the `#gem-coop-members` Slack channel. A general meeting may be called by either a majority vote of the PLC or a majority vote of the entire membership using Slack 👍 reactions. The membership must be given at least three weeks' notice of a general meeting.
 
 1. The AGM may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
