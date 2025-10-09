@@ -24,11 +24,13 @@
 
 1. Members should abstain from voting when they have a conflict of interest not shared by other members. No one may be compelled to abstain from voting.
 
-## 3. General Meetings of Members
+### 2.1. General Meetings of Members
 
-1. Any member can request a general meeting of the members in the `#gem-coop-members` Slack channel. A general meeting may be called by either a majority vote of the PLC or the entire membership using Slack 👍 reactions. The membership must be given at least three weeks' notice of a general meeting.
+1. Gem.coop members will meet at the annual general meeting (AGM) in a manner determined by the PLC. The AGM date must be given with at least two months' advance notice.
 
-1. The Annual General Meeting may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
+1. Any member can request additional general meetings of the members in the `#gem-coop-members` Slack channel. A general meeting may be called by either a majority vote of the PLC or the entire membership using Slack 👍 reactions. The membership must be given at least three weeks' notice of a general meeting.
+
+1. The AGM may be conducted in person and may provide online video conferencing for those unable to attend. Other general meetings should prioritize times and accessibility for the members involved, using text discussions or online video conference.
 
 1. The quorum for votes at a general meeting is 3 voting members or 10% of the voting members, whichever is greater.
    A general meeting with no business except voting should be asynchronous.
@@ -37,25 +39,13 @@
    The voting period closes after one week or after the outcome of the vote would not be changed by any subsequent votes.
    If a synchronous meeting is happening, the meeting must occur before the votes can be tallied.
 
-1. Gem.coop members will meet at the annual general meeting (AGM) in a manner determined by the PLC.
-
 1. Elections will be held at the AGM.
 
 1. The PLC will announce candidates and proposals three weeks prior to the election date.
 
 1. Members should cast their vote during the 3 weeks prior to the election date.
 
-### 3.1. Amendments to these bylaws
-
-1. These bylaws must only be amended by a supermajority vote at a general meeting of the members.
-
-1. Any member may propose an amendment via pull request (PR) on GitHub against this document. Proposed draft amendments can receive feedback by any members and may be refined until the author sets the PR as ready.
-
-1. Once ready, the PR needs to be approved by 3 members or 10% of members, whichever is greater, in order to be considered at the next general meeting.
-
-1. Once a PR is approved for voting, all members must vote on the amendment. Voting will happen during the next general meeting of members. That will normally be the next AGM, but any member can request an earlier general meeting if necessary.
-
-## 4. Project Leadership Committee
+## 3. Project Leadership Committee
 
 1. The financial administration of Gem.coop, organisation of the AGM, enforcement of the code of conduct and removal of members are performed by the PLC. The PLC will represent Gem.coop in all dealings with Open Collective.
 
@@ -71,17 +61,17 @@
 
 1. All members of the PLC will be “billing managers” and "moderators" of the GitHub organisation and any related resources (e.g. Bundler Slack where possible).
 
-## 5. Meetings of the Project Leadership Committee
+1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
 
-1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, or, alternatively, on a synchronous video call. For accessibility a synchronous text chat option should be available. The AGM date must be given with at least two months' advance notice.
+## 3.1. Meetings of the Project Leadership Committee
+
+1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, or, alternatively, on a synchronous video call. For accessibility a synchronous text chat option should be available.
 
 1. The PLC will annually review the status of all members and remove members who did not vote in the AGM and then did not re-affirm a commitment to Gem.coop. Voting in the AGM confirms that a member wishes to remain active with the project. After the AGM, the PLC will ask the members who did not vote whether they wish to remain active with the project. The PLC removes any members who don't respond to this second request after three weeks.
 
 1. A majority vote of the PLC will appoint the members of the TSC.
 
-1. Any member may refer any financial questions, AGM questions or code of conduct violations to the PLC. All technical matters must instead be referred to the Project Leader and technical disputes to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the PLC, Project Leader or TSC.
-
-## 6. Project Leader
+## 4. Project Leader
 
 1. The Project Leader will represent Gem.coop publicly, manage all day-to-day technical decisions, and resolve disputes related to the operation of Gem.coop between maintainers, members, other contributors, and users.
 
@@ -101,7 +91,7 @@
 
 1. The Project Leader will be an "Owner" of the Gem.coop GitHub Organization, Bundler Slack and any related resources.
 
-## 7. Technical Steering Committee
+## 5. Technical Steering Committee
 
 1. The TSC has the authority to decide on any technical disputes between any maintainer and the Project Leader. Disputes not involving the Project Leader must be addressed through the Project Leader.
 
@@ -115,7 +105,7 @@
 
 1. One member of the TSC (not the PL) will be an "Owner" of the GitHub organisation, Bundler Slack and any related resources as a backup to increase the bus factor in event of the PL being incapacitated.
 
-## 8. Maintainers
+## 6. Maintainers
 
 1. All maintainers are automatically members. Some, not all, members are maintainers.
 
@@ -143,7 +133,7 @@
 - contributions in previous years as a maintainer or contributor
 - contributions to the governance documents, the PLC, social media, Gem.coop's discussion forum, etc.
 
-### 8.1 Maintainer Appeals
+### 6.1 Maintainer Appeals
 
 1. If a maintainer wishes to appeal their removal, they may request a TSC review of the decision. This appeal must be lodged within 72 hours of notice of removal.
 
@@ -157,7 +147,7 @@
 
 1. The TSC will consider appeals no more than once per quarter per maintainer until the next AGM.
 
-### 8.2 Emergency Removals
+### 6.2 Emergency Removals
 
 1. In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of the Gem.coop codebase, systems, or organisation, the PL or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
 
@@ -166,3 +156,13 @@
 1. An automatic appeal process is started for any maintainer removed under this provision. The PLC and TSC must review the emergency removal of any maintainer within two weeks and may instruct the PL to restore the maintainer's privileges if the situation is resolved.
 
 1. The TSC will document the situation in an incident report to be shared with members. The report should recommend changes to security settings, maintainer policy, this governance document or any additional measures required to prevent the situation from occurring again.
+
+## 7. Amendments to these bylaws
+
+1. These bylaws must only be amended by a supermajority vote at a general meeting of the members.
+
+1. Any member may propose an amendment via pull request (PR) on GitHub against this document. Proposed draft amendments can receive feedback by any members and may be refined until the author sets the PR as ready.
+
+1. Once ready, the PR needs to be approved by 3 members or 10% of members, whichever is greater, in order to be considered at the next general meeting.
+
+1. Once a PR is approved for voting, all members must vote on the amendment. Voting will happen during the next general meeting of members. That will normally be the next AGM, but any member can request an earlier general meeting if necessary.
