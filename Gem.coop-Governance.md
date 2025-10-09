@@ -75,7 +75,7 @@
 
 ## 5. Meetings of the Project Leadership Committee
 
-1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, on a synchronous video call. For accessibility a synchronous text chat option should be available. The AGM date must be given with at least two months' advance notice.
+1. All members of the PLC must meet at the AGM at least once per year. This will ideally be in person, or, alternatively, on a synchronous video call. For accessibility a synchronous text chat option should be available. The AGM date must be given with at least two months' advance notice.
 
 1. The PLC will annually review the status of all members and remove members who did not vote in the AGM and then did not re-affirm a commitment to Gem.coop. Voting in the AGM confirms that a member wishes to remain active with the project. After the AGM, the PLC will ask the members who did not vote whether they wish to remain active with the project. The PLC removes any members who don't respond to this second request after three weeks.
 
