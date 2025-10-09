@@ -109,7 +109,7 @@
 
 1. The TSC has the authority to decide on any technical disputes between any maintainer and the Project Leader. Disputes not involving the Project Leader must be addressed through the Project Leader.
 
-1. The PL is one member of the TSC. The PLC will appoint 3 maintainers to be members of the TSC by a majority vote. It is recommended that PLC members are not be any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
+1. The PL is one member of the TSC. The PLC will appoint 3 maintainers to be members of the TSC by a majority vote. It is recommended that PLC members are not any of these appointees but this may not be possible in the short-term. Appointed TSC members will serve a term of one year or until the member's successor is appointed.
 
 1. Any member may refer any technical question or dispute to the TSC. Members will make a good faith effort to resolve any disputes with compromise prior to referral to the TSC.
 
