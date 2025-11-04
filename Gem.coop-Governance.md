@@ -92,7 +92,7 @@
 
 1. A member of the TSC must only be removed from the TSC by a majority vote of the PLC.
 
-## 6. Maintainers
+## 5. Maintainers
 
 1. All maintainers are automatically members. Some, not all, members are maintainers.
 
@@ -120,7 +120,7 @@
 - contributions in previous years as a maintainer or contributor
 - contributions to the governance documents, the PLC, social media, Gem Cooperative's discussion forum, etc.
 
-### 6.1 Maintainer Appeals
+### 5.1 Maintainer Appeals
 
 1. If a maintainer wishes to appeal their removal, they may request a PLC review of the decision. This appeal must be lodged within 72 hours of notice of removal.
 
@@ -134,7 +134,7 @@
 
 1. The PLC will consider appeals no more than once per quarter per maintainer until the next AGM.
 
-### 6.2 Emergency Removals
+### 5.2 Emergency Removals
 
 1. In emergency situations, including but not limited to malicious commits, suspicious activity, abuse of resources, abuse of privileges, or any action or activity that could harm the security posture or reputation of The Gem Cooperative codebases, systems, or organisation, the PLC or anyone with the capability to remove privileges should remove any or all of a maintainer's access rights (e.g. to GitHub, Bundler Slack, etc.).
 
@@ -144,7 +144,7 @@
 
 1. The TSC will document the situation in an incident report to be shared with members. The report should recommend changes to security settings, maintainer policy, this governance document or any additional measures required to prevent the situation from occurring again.
 
-## 7. Amendments to these bylaws
+## 6. Amendments to these bylaws
 
 1. These bylaws must only be amended by a supermajority vote at a general meeting of the members.
 
