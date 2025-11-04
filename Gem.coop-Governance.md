@@ -78,7 +78,7 @@
 
 ## 4. Technical Steering Committee
 
-1. The TSC will rmanage all day-to-day technical decisions.
+1. The TSC will manage all day-to-day technical decisions.
 
 1. The TSC has the authority to decide on any technical disputes.
 
