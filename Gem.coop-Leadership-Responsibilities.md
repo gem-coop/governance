@@ -34,7 +34,7 @@
   - Add the minutes of the AGM to [gem-coop/governance](https://github.com/gem-coop/governance)
   - Create an [issue in gem-coop/governance](https://github.com/gem-coop/governance/issues?q=is%3Aissue+in%3Atitle+membership+) to survey members who did not vote in the election whether they wish to remain or step down as members
     - Members that are not maintainers should be a least one of:
-      - An current or previously active maintainer, PLC or TSC member
+      - A current or previously active maintainer, PLC or TSC member
       - A long-standing member of the Gem.coop community (e.g. been submitting good bug reports for over two years)
     - After the survey issue is closed, list the current year's members in a new file within [gem-coop/governance](https://github.com/gem-coop/governance)
 - October: arrange in-person or virtual AGM
