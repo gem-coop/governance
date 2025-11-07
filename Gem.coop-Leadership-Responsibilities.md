@@ -9,13 +9,14 @@
 - voting on maintainer hackathon/conference/AGM travel expenses (before they are booked)
 - responding to and handling Code of Conduct complaints
 - removing inactive members (that are not maintainers) that did not vote in the AGM
+- performing GitHub admin operations on the Gem.coop GitHub organisation
+- performing Slack admin operations on the Gem.coop Slack
 
 ### PLC Shared Responsibilities
 
 - approving Open Collective expenses that are expected or have already been agreed upon by the PLC (e.g. Gem.coop cloud usage on a personal credit card) (only one approval needed)
 - blocking abusive GitHub users
-- performing GitHub admin operations on the Gem.coop GitHub organisation
-- performing Slack admin operations on the Gem.coop Slack
+- [product management](https://en.wikipedia.org/wiki/Product_management) for the various Gem.coop products
 
 ### PLC Dated Yearly Tasks
 
@@ -33,41 +34,27 @@
   - Add the minutes of the AGM to [gem-coop/governance](https://github.com/gem-coop/governance)
   - Create an [issue in gem-coop/governance](https://github.com/gem-coop/governance/issues?q=is%3Aissue+in%3Atitle+membership+) to survey members who did not vote in the election whether they wish to remain or step down as members
     - Members that are not maintainers should be a least one of:
-      - An current or previously active maintainer, PLC/TSC member or Project Leader
+      - A current or previously active maintainer, PLC or TSC member
       - A long-standing member of the Gem.coop community (e.g. been submitting good bug reports for over two years)
     - After the survey issue is closed, list the current year's members in a new file within [gem-coop/governance](https://github.com/gem-coop/governance)
 - October: arrange in-person or virtual AGM
   - Offer to pay for Gem.coop maintainers who are at least one of:
     - active Gem.coop maintainers (i.e. not just contributors)
     - new Gem.coop maintainers (i.e. this would be their first AGM)
-    - current members of or running for election for PLC/TSC/Project Leader
+    - current members of or running for election for PLC/TSC
   - Authorise people to book travel
-
-## Project Leader
-
-### PL Sole Responsibilities
-
-- manage all day-to-day technical decisions
-- resolve disputes related to the operation of Gem.coop between maintainers, members, other contributors, and users
-- [product management](https://en.wikipedia.org/wiki/Product_management) for the various Gem.coop products
-- in February, before the AGM: checking for activity of non-PLC/TSC maintainers and asking them to step down if they have not been active enough in the past 12 months
-
-### PL Shared Responsibilities
-
-- approving new Gem.coop maintainers (only one approval needed)
-- approving Open Collective expenses that are expected or have already been agreed upon by the PLC (e.g. Gem.coop cloud usage on a personal credit card) (only one approval needed)
-- blocking abusive GitHub users
-- performing GitHub admin operations on the Gem.coop GitHub organisation
-- performing Slack admin operations on the Gem.coop Slack
 
 ## Technical Steering Committee
 
 ### TSC Sole Responsibilities
 
-- decide on technical disputes between Gem.coop maintainers and the Project Leader
+- manage all day-to-day technical decisions
+- decide on technical disputes between Gem.coop maintainers, members, other contributors, and users
+- in February, before the AGM: checking for activity of non-PLC/TSC maintainers and asking them to step down if they have not been active enough in the past 12 months
+- approving new Gem.coop maintainers (only one approval needed)
 
 ### TSC Shared Responsibilities
 
-- approving new Gem.coop maintainers (only one approval needed)
+- approving Open Collective expenses that are expected or have already been agreed upon by the PLC (e.g. Gem.coop cloud usage on a personal credit card) (only one approval needed)
 - blocking abusive GitHub users
-- performing GitHub admin operations on the Gem.coop GitHub organisation
+- [product management](https://en.wikipedia.org/wiki/Product_management) for the various Gem.coop products
