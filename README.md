@@ -14,10 +14,13 @@
 
 Gem Cooperative's governance was initially guided by [Mike McQuaid](https://github.com/MikeMcQuaid).
 
-Gem Cooperative's [Project Leader](Gem.coop-Governance.md#6-project-leader) is not yet elected.
+Gem Cooperative's [Project Leadership Committee](Gem.coop-Governance.md#3-project-leadership-committee) consists of the following, in alphabetical order:
 
-Gem Cooperative's [Project Leadership Committee](Gem.coop-Governance.md#4-project-leadership-committee) is not yet elected.
-Gem Cooperative's [Technical Steering Committee](Gem.coop-Governance.md#7-technical-steering-committee) is not yet elected.
+- [André Arko (@indirect)](https://github.com/indirect)
+- [Ellen Dash (@duckinator)](https://github.com/duckinator)
+- [Martin Emde (@martinemde)](https://github.com/martinemde)
+
+Gem Cooperative's [Technical Steering Committee](Gem.coop-Governance.md#4-technical-steering-committee) is not yet elected.
 
 Gem Cooperative's maintainers are not yet appointed.
 
