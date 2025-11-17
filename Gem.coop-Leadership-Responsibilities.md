@@ -21,9 +21,9 @@
 ### PLC Dated Yearly Tasks
 
 - January: check membership, announce AGM votes
-  - Ask for nominations for the for the PLC and project leader, and ask who is interested in serving on the TSC
+  - Ask for nominations for the PLC, and ask who is interested in serving on the TSC
   - Create ballots for the elections on <https://www.opavote.com>
-  - Ask the project leader and representatives of the PLC and TSC to prepare reports for the AGM
+  - Ask representatives of the PLC and TSC to prepare reports for the AGM
   - Ask for members interested in presenting lightning talks at the AGM
 - February: organise the annual general meeting (AGM)
   - Create a dedicated Bundler Slack channel
