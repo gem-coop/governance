@@ -21,7 +21,7 @@
 ### PLC Dated Yearly Tasks
 
 - January: check membership, announce AGM votes
-  - Ask for nominations for the for the PLC, and ask who is interested in serving on the TSC
+  - Ask for nominations for the PLC, and ask who is interested in serving on the TSC
   - Create ballots for the elections on <https://www.opavote.com>
   - Ask representatives of the PLC and TSC to prepare reports for the AGM
   - Ask for members interested in presenting lightning talks at the AGM
