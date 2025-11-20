@@ -24,7 +24,15 @@ Gem Cooperative's [Technical Steering Committee](Gem.coop-Governance.md#4-techni
 - [David Rodríguez (@deivid-rodriguez)](https://github.com/deivid-rodriguez)
 - [Josef Šimánek (@simi)](https://github.com/simi)
 
-Gem Cooperative's maintainers are listed in the [GitHub team named "maintainers"](https://github.com/orgs/gem-coop/teams/maintainers).
+Gem Cooperative's maintainers are (sorted via `ruby -e 'puts STDIN.read.split.shuffle'`):
+
+- [Josef Šimánek (@simi)](https://github.com/simi)
+- [David Rodríguez (@deivid-rodriguez)](https://github.com/deivid-rodriguez)
+- [Martin Emde (@martinemde)](https://github.com/martinemde)
+- [Samuel Giddins (@segiddins)](https://github.com/segiddins)
+- [Olle Jonsson (@olleolleolle)](https://github.com/olleolleolle)
+- [André Arko (@indirect)](https://github.com/indirect)
+- [Ellen Dash (@duckinator)](https://github.com/duckinator)
 
 ## Relationship To Other Entities
 
