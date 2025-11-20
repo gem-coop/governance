@@ -12,17 +12,19 @@
 
 ## Who We Are
 
-Gem Cooperative's governance was initially guided by [Mike McQuaid](https://github.com/MikeMcQuaid).
-
 Gem Cooperative's [Project Leadership Committee](Gem.coop-Governance.md#3-project-leadership-committee) consists of the following, in alphabetical order:
 
 - [André Arko (@indirect)](https://github.com/indirect)
 - [Ellen Dash (@duckinator)](https://github.com/duckinator)
 - [Martin Emde (@martinemde)](https://github.com/martinemde)
 
-Gem Cooperative's [Technical Steering Committee](Gem.coop-Governance.md#4-technical-steering-committee) is not yet elected.
+Gem Cooperative's [Technical Steering Committee](Gem.coop-Governance.md#4-technical-steering-committee) consists of the following, in alphabetical order:
 
-Gem Cooperative's maintainers are not yet appointed.
+- [Olle Jonsson (@olleolleolle)](https://github.com/olleolleolle)
+- [David Rodríguez (@deivid-rodriguez)](https://github.com/deivid-rodriguez)
+- [Josef Šimánek (@simi)](https://github.com/simi)
+
+Gem Cooperative's maintainers are listed in the [GitHub team named "maintainers"](https://github.com/orgs/gem-coop/teams/maintainers).
 
 ## Relationship To Other Entities
 
@@ -36,7 +38,12 @@ The governance model defined in this repository aims to ensure our independence 
 - [Governance, Section 4 (Technical Steering Committee), item 4](https://github.com/gem-coop/governance/blob/main/Gem.coop-Governance.md#5-technical-steering-committee)
   > No more than one employee of the same employer may serve on the TSC.
 
-## License
+## Acknowledgements
 
 The first version of these documents were seeded from [Homebrew's documentation](https://docs.brew.sh).
+
+Gem Cooperative's governance was initially guided by [Mike McQuaid](https://github.com/MikeMcQuaid).
+
+## License
+
 This documentation (and Homebrew's) is under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
